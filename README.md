@@ -30,4 +30,4 @@ of orders NOT completing. This is a critical fulfillment issue.
 | `screenshots/` | Dashboard preview images |
 
 ## 📸 Dashboard Preview
-![Dashboard](screenshots/DASHBOARD.png)
+(![Dashboard](https://raw.githubusercontent.com/gunjanagr/Amazon-Sales-Analysis-PowerBI/main/DASHBOARD.png))
